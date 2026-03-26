@@ -57,6 +57,14 @@ python user_input_sum.py
 Input: 10, 20, q  
 Output: Total = 30
 
+
+# User Input Sum with Validation
+
+A Python program that adds numbers entered by the user until 'q' is pressed.  
+Handles invalid input using try-except.
+
+## ▶️ Run
+python user_input_sum_with_validation.py
 # Technologies Used
 
 - 🐍 Python
