@@ -1,6 +1,6 @@
-🚀 Python Practice Repository
+# Python Practice Repository
 
-👩‍💻 About
+# About
 
 This repository contains my Python problem-solving practice for coding interviews and placements.
 
@@ -8,7 +8,7 @@ This repository contains my Python problem-solving practice for coding interview
 
 📂 Problems Included
 
-🧮 1. Discount Calculator
+# Discount Calculator
 
 Description:
 Calculates the final amount after applying discount based on purchase amount.
@@ -21,7 +21,7 @@ Logic:
 
 ---
 
-🚗 2. Parking Fine Calculation
+# Parking Fine Calculation
 
 Description:
 Calculates parking fine based on number of hours.
@@ -34,31 +34,41 @@ Rules:
 
 ---
 
-📊 3. Subset Sum (Maximum ≤ Limit)
+ # Subset Sum (Maximum ≤ Limit)
 
-Description:
+# Description:
 Find the maximum subset sum that does not exceed a given limit.
 
-Approach:
+# Approach:
 
 - Use a set to store possible sums
 - Generate new sums step by step
 - Keep only sums ≤ limit
 
 ---
+# User Input Sum (Python)
 
-🛠️ Technologies Used
+A simple Python program that keeps adding numbers entered by the user until 'q' is pressed.
+
+## ▶️ Run
+python user_input_sum.py
+
+## 💡 Example
+Input: 10, 20, q  
+Output: Total = 30
+
+# Technologies Used
 
 - 🐍 Python
 
 ---
 
-🎯 Goal
+# Goal
 
 To improve problem-solving skills and prepare for technical interviews.
 
 ---
 
-✨ Author
+# Author
 
 Chandana S 💙
