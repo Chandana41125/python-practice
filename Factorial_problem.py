@@ -1,8 +1,11 @@
 
 def factorial(num):
     fact = 1
-    for n in range(num,0,-1):
-        fact = fact * n
+    if num == 0 or num ==1:
+        return 1
+    else:
+        for n in range(num,0,-1):
+            fact = fact * n
     return fact
 
 
