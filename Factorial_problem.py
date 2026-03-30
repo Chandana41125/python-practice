@@ -1,4 +1,3 @@
-
 def factorial(num):
     fact = 1
     if num == 0 or num ==1:
