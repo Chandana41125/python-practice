@@ -77,6 +77,22 @@ To improve problem-solving skills and prepare for technical interviews.
 
 ---
 
+
+# 🐍 Python Function Practice
+
+This project contains basic Python functions for practicing arithmetic operations and simple logic.
+
+🚀 Features
+Addition, subtraction, multiplication, and division
+Average of three numbers
+Print length and names of cities
+USD ⇄ INR currency conversion
+Check whether a number is even or odd
+▶️ Run
+
+Run the Python file and follow the input (if required).
+
+
 # Author
 
 Chandana S 💙
