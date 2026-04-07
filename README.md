@@ -93,6 +93,55 @@ Check whether a number is even or odd
 Run the Python file and follow the input (if required).
 
 
+
+# 🪭 Fan Class - Python OOP Practice
+
+This project demonstrates basic Object-Oriented Programming (OOP) concepts in Python using a `Fan` class.
+
+---
+
+## 📌 Concepts Covered
+
+- Class and Object Creation
+- Constructor (`__init__`)
+- Instance Variables
+- Methods
+- Object State Management
+- Updating Object Attributes
+
+---
+
+## 🧠 Programs Included
+
+### 1. Basic Fan Class
+- Create a Fan object with color
+- Display the color
+
+### 2. Multiple Objects
+- Create multiple Fan objects
+- Display brand and speed
+
+### 3. Change Speed
+- Update the speed of the fan using a method
+
+### 4. Turn ON / OFF Fan
+- Manage fan state using `is_on`
+- Methods to turn ON and OFF
+
+### 5. Increase Speed
+- Increase fan speed dynamically
+
+---
+
+## 🚀 How to Run
+
+1. Open the file in VS Code
+2. Run using:
+
+```bash
+python fan_oops_practice.py
+
+
 # Author
 
 Chandana S 💙
