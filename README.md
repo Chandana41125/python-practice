@@ -142,6 +142,49 @@ This project demonstrates basic Object-Oriented Programming (OOP) concepts in Py
 python fan_oops_practice.py
 
 
+# 🔀 Conditional Statements - Python Practice
+
+This project demonstrates the use of conditional statements (`if`, `elif`, `else`) in Python.
+
+---
+
+## 📌 Concepts Covered
+
+- if statement
+- if-elif-else ladder
+- Logical operators (and, or, not)
+- Decision making in programs
+
+---
+
+## 🧠 Programs Included
+
+### 1. Positive, Negative, or Zero
+Checks whether a number is positive, negative, or zero.
+
+### 2. Even or Odd
+Determines whether a number is even or odd.
+
+### 3. Grade Calculation
+Assigns grade based on marks:
+- ≥ 90 → Grade A
+- ≥ 60 → Grade B
+- Else → Fail
+
+### 4. Largest of Three Numbers
+Finds the greatest among three numbers.
+
+### 5. Leap Year Check
+Determines whether a year is a leap year using standard conditions.
+
+---
+
+## 🚀 How to Run
+
+```bash
+python conditional_statements_practice.py
+
+
 # Author
 
 Chandana S 💙
