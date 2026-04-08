@@ -141,49 +141,54 @@ This project demonstrates basic Object-Oriented Programming (OOP) concepts in Py
 ```bash
 python fan_oops_practice.py
 
+## 🔀 Conditional Statements - Python Practice
 
-# 🔀 Conditional Statements - Python Practice
-
-This project demonstrates the use of conditional statements (`if`, `elif`, `else`) in Python.
-
----
+This project demonstrates the use of conditional statements (if, elif, else) in Python through basic problem-solving examples.
 
 ## 📌 Concepts Covered
+if statement
+if-elif-else ladder
+Logical operators (and, or, not)
+Decision-making in Python
+🧠 Programs Included
+1. Positive, Negative, or Zero
 
-- if statement
-- if-elif-else ladder
-- Logical operators (and, or, not)
-- Decision making in programs
-
----
-
-## 🧠 Programs Included
-
-### 1. Positive, Negative, or Zero
 Checks whether a number is positive, negative, or zero.
 
-### 2. Even or Odd
+2. Even or Odd
+
 Determines whether a number is even or odd.
 
-### 3. Grade Calculation
-Assigns grade based on marks:
-- ≥ 90 → Grade A
-- ≥ 60 → Grade B
-- Else → Fail
+3. Grade Calculation
 
-### 4. Largest of Three Numbers
-Finds the greatest among three numbers.
+Assigns grades based on marks:
 
-### 5. Leap Year Check
-Determines whether a year is a leap year using standard conditions.
+≥ 90 → Grade A
+≥ 60 → Grade B
+< 60 → Fail
+4. Largest of Three Numbers
 
----
+Finds the greatest among three numbers using conditional logic.
 
-## 🚀 How to Run
+5. Leap Year Check
 
-```bash
+Checks whether a given year is a leap year:
+
+Divisible by 400 → Leap Year
+Divisible by 4 and not by 100 → Leap Year
+🚀 How to Run
+
+Open the file in VS Code and run:
+
 python conditional_statements_practice.py
-
+🎯 Learning Outcomes
+Understand how conditional statements work
+Improve logical thinking
+Apply conditions in real-world problems
+📚 Future Improvements
+Add functions
+Add input validation
+Build mini projects
 
 # Author
 
