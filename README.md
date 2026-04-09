@@ -188,6 +188,38 @@ Checks whether a given year is a leap year using standard conditions:
 ---bash
 python conditional_statements_practice.py
 
+🔁 For Loop & Range - Python Practice
+
+This project demonstrates the use of for loops and range() in Python through multiple problem-solving examples.
+
+📌 Concepts Covered
+for loop
+range() function
+Loop control
+Basic problem-solving
+Time optimization (Prime number)
+🧠 Programs Included
+1. Print 1 to 10
+2. Reverse 10 to 1
+3. Even numbers (1–20)
+4. Odd numbers (1–20)
+5. Multiplication table
+6. Sum of numbers
+7. Factorial
+8. Divisible by 3
+9. Count divisible by 5
+10. Prime number (optimized using √n)
+🚀 How to Run
+
+Open in VS Code and run:
+
+python for_loop_range_practice.py
+🎯 Learning Outcomes
+Understand looping concepts
+Work with ranges and steps
+Improve logical thinking
+Learn basic optimization
+
 # Author
 
 Chandana S 💙
