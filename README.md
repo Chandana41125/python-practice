@@ -220,6 +220,39 @@ Work with ranges and steps
 Improve logical thinking
 Learn basic optimization
 
+
+🔁 While Loop - Python Practice
+
+This project demonstrates the use of while loops in Python through various problem-solving examples.
+
+📌 Concepts Covered
+while loop
+Loop control
+Increment & decrement
+Condition-based looping
+Prime number optimization
+🧠 Programs Included
+1. Print numbers from 1 to 10
+2. Reverse numbers (10 to 1)
+3. Even numbers (1–20)
+4. Odd numbers (1–20)
+5. Multiplication table
+6. Sum of numbers
+7. Factorial
+8. Numbers divisible by 3
+9. Count divisible by 5
+10. Prime number (optimized using √n)
+🚀 How to Run
+
+Open in VS Code and run:
+
+python while_loop_practice.py
+🎯 Learning Outcomes
+Understand while loop behavior
+Control loops using conditions
+Avoid infinite loops
+Improve logical thinking
+Learn optimization techniques
 # Author
 
 Chandana S 💙
