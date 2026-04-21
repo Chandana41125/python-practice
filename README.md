@@ -253,6 +253,38 @@ Control loops using conditions
 Avoid infinite loops
 Improve logical thinking
 Learn optimization techniques
+
+
+
+
+# 📘 Student Encapsulation Example (Python)
+
+## 📌 Overview
+This project demonstrates the concept of **Encapsulation in Object-Oriented Programming (OOP)** using Python.
+
+## 🔑 Concepts Used
+- Classes and Objects
+- Private Variables (`__name`, `__age`)
+- Getter Method
+- Setter Method
+- Data Validation
+
+## 🧠 Explanation
+- Private variables are used to restrict direct access.
+- Getter method is used to access private data.
+- Setter method updates values only if conditions are satisfied.
+
+## ⚙️ Conditions in Setter
+- Age must be greater than 18
+- Name must be "chandu"
+
+## ▶️ How to Run
+```bash
+python student.py
+
+
+
+
 # Author
 
 Chandana S 💙
