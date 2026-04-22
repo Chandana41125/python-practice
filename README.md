@@ -279,10 +279,28 @@ This project demonstrates the concept of **Encapsulation in Object-Oriented Prog
 - Name must be "chandu"
 
 ## ▶️ How to Run
-```bash
+
 python student.py
 
 
+# Python Encapsulation Examples
+
+This repository demonstrates different ways to implement encapsulation in Python.
+
+## Topics Covered
+
+- Basic Encapsulation using getter and setter methods
+- Encapsulation using property() function
+- Encapsulation using @property and @setter decorators
+- Accessing private methods inside a class
+
+## Concepts
+
+Encapsulation is an OOP principle used to restrict direct access to variables and methods. It helps in data hiding and ensures controlled access using public methods.
+
+## Usage
+
+Run the Python file to see different encapsulation techniques in action.
 
 
 # Author
