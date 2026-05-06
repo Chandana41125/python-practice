@@ -303,6 +303,33 @@ Encapsulation is an OOP principle used to restrict direct access to variables an
 Run the Python file to see different encapsulation techniques in action.
 
 
+
+# List Comprehension Practice 🚀
+
+This repository contains Python List Comprehension practice questions from beginner to intermediate level.
+
+## Topics Covered
+- Basic List Comprehension
+- Conditional Statements
+- Nested List Comprehension
+- String Manipulation
+- List Filtering
+- Data Transformation
+
+## Practice Questions
+- Squares of numbers
+- Even numbers
+- Uppercase conversion
+- Remove vowels
+- Flatten nested lists
+- Common elements between lists
+- Replace negative numbers with 0
+- And more...
+
+## Interview Definition
+List comprehension is a compact way to create lists in Python using loops and optional conditions in a single line.
+
+
 # Author
 
 Chandana S 💙
